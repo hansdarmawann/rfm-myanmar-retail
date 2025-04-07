@@ -1,5 +1,5 @@
 # Supermarket Retail Analysis: LRFM or RFM ?
-by JCDS2602 - Group 5: Clarinda Puspitajati, Hans Darmawan, Ridha Shahnabiel Hayat
+by JCDS2602 - Group 5: Clarinda Puspitajati, Hans Darmawan, and Ridha Shahnabiel Hayat
 
 Link to Dashboard (Google Looker Studio):
 https://lookerstudio.google.com/reporting/190ffb6a-627a-47c8-b07f-6211b9079108
