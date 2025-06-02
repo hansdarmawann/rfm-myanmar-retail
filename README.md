@@ -1,6 +1,9 @@
 # Supermarket Retail Analysis: LRFM or RFM ?
 by Clarinda Puspitajati, Hans Darmawan, and Ridha Shahnabiel Hayat
 
+Link to Dashboard v2(Tableau by Hans):
+https://public.tableau.com/shared/FWB8GXY89?:display_count=n&:origin=viz_share_link
+
 Link to Dashboard (Google Looker Studio):
 https://lookerstudio.google.com/reporting/190ffb6a-627a-47c8-b07f-6211b9079108
 
